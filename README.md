@@ -7,5 +7,5 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 The HTML page is a geospatial depiction of earthquakes ("all_week") found at the following url; https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson.  The size and color of the circles are based on the magnitude of the earthquakes.
 
-The map can be viewed here; https://gportes24.github.io/leaflet-challenge/
+The map can be viewed here;
 

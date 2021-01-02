@@ -1,3 +1,4 @@
+<script type="text/javascript" src="static/js/config.js"></script>
 var myMap = L.map("mapid", {
     center: [39.669045, -98.743677],
     zoom: 6
